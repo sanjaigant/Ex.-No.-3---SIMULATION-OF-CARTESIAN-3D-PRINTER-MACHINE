@@ -54,7 +54,7 @@
 
 ![PROJECT 3 C](https://github.com/codedbykishore/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147139122/0f921bbd-ae65-40c3-90ad-352b3ce2c7c4)
 
-![image](https://raw.githubusercontent.com/codedbykishore/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/main/Empd%20Complerted%20assembly.png)
+![PROJECT 3 D](https://github.com/codedbykishore/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147139122/15fcb00c-a1b8-4827-ac42-5333d8a15aa9)
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
