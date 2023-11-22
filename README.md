@@ -50,7 +50,7 @@
 ## OUTPUT
 ![image](https://raw.githubusercontent.com/sudharsanakumar18/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/main/empd1%20edit.png)
 
-![image](https://raw.githubusercontent.com/sudharsanakumar18/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/main/empd1%20edit.png)
+![PROJECT 3 B](https://github.com/codedbykishore/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147139122/87f5ffb0-6100-43b5-9336-83f872f425d6)
 
 ![image](https://raw.githubusercontent.com/codedbykishore/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/main/Empd%20Z%20axis.png)
 
