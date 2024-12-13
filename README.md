@@ -60,8 +60,8 @@
 
 ## Output:
 
-### Name: KISHORE B
-### Register Number: 23013723
+### Name: samjai ganth.B
+### Register Number: 24006814
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
