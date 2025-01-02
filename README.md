@@ -59,7 +59,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 
-### Name: samjai ganth.B
+### Name: sanjai ganth.B
 ### Register Number: 24006814
 
 ## Result: 
